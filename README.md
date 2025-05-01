@@ -44,7 +44,8 @@ This repository contains a responsive landing page form built with HTML and CSS 
 
 ## Screenshot
 
-![Form Screenshot](screenshot.png) *(Note: You may want to add an actual screenshot)*
+![Form Screenshot](![image](https://github.com/user-attachments/assets/32dedac3-be45-4f4e-bb7e-5b02be25a3f8)
+) *
 
 ## LinkedIn Submission
 
